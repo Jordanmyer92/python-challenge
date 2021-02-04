@@ -16,6 +16,8 @@ with open(file_path) as csvfile:
   
     for row in csvreader:
         total_months=total_months+1
-        
-      print(row)
+         print(row)
       
+
+print("Financial Analysis")
+print(f"Total Months:{total_months}")
