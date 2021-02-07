@@ -52,7 +52,7 @@ with open(file_path) as csvfile:
 #print results
 print("Election Results")
 print("-------------------")
-print(f"Total Months: {total_months}")
+print(f"Total Votes: {total_votes}")
 print(f"Net Total Proft/Loss: ${total_profit_loss}")
 print(f"Average Change: ${average_profit_loss}")
 print(f"Greatest Increase in Profits: {greatest_increase['date']} (${greatest_increase['amount']})")
