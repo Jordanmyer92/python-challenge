@@ -25,7 +25,8 @@ with open(file_path) as csvfile:
       #total number of votes cast
       total_votes=total_votes+1
       Voter_ID=row[0]
-      =float(row[1])
+      County=row[1]
+      Candidate=row[2]
 
       #net total amount of "profit/loses" over the enite period
       #total_profit_loss= (profit + 1)
