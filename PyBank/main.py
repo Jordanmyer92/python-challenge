@@ -19,7 +19,7 @@ with open(file_path) as csvfile:
    csvreader = csv.reader(csvfile)
     
    csv_header = next(csvreader)
-   print(f"CSV Header: {csv_header}")
+   #print(f"CSV Header: {csv_header}")
   
    for row in csvreader:
       #total number of months in the data set
