@@ -1,0 +1,16 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\jorda\Desktop\python-challenge\PyBank> conda activate PythonData
+PS C:\Users\jorda\Desktop\python-challenge\PyBank> & C:/Users/jorda/Anaconda3/envs/PythonData/python.exe c:/Users/jorda/Desktop/python-challenge/PyBank/main.py
+CSV Header: ['Date', 'Profit/Losses']
+Financial Analysis 
+-------------------
+Total Months: 86
+Net Total Proft/Loss: $671100.0
+Average Change: $7713.0
+Greatest Increase in Profits: Feb-2012 ($1170593.0)
+Greatest Decrease in Profits: Sep-2013 ($-1196225.0)
+PS C:\Users\jorda\Desktop\python-challenge\PyBank>

@@ -6,9 +6,9 @@ total_votes = 0
 candidates_list = {}
 candidate = ""
 #percentage of votes each candidate won
-percent_of_votes = 0.00
+
 # total number of votes each candidate won
-total_votes_per = 0.00
+
 # winner ofelection based on votes
 
 
@@ -41,7 +41,7 @@ with open(file_path) as csvfile:
       
 
       # total number of votes each candidate won
-      #total_votes_per  
+   
 
       # winner ofelection based on votes
       winner = ("", 0)

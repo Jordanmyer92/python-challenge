@@ -1,0 +1,18 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\jorda\Desktop\python-challenge\PyPoll> conda activate PythonData
+PS C:\Users\jorda\Desktop\python-challenge\PyPoll> & C:/Users/jorda/Anaconda3/envs/PythonData/python.exe c:/Users/jorda/Desktop/python-challenge/PyPoll/main.py
+Election Results
+------------------- 
+Total Votes: 3521001
+-------------------
+Khan: 63.000% (2218231)
+Correy: 20.000% (704200)
+Li: 14.000% (492940)
+O'Tooley: 3.000% (105630)
+-------------------
+Winner: Khan
+PS C:\Users\jorda\Desktop\python-challenge\PyPoll> 
