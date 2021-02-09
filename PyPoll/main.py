@@ -4,6 +4,7 @@ import csv
 total_votes = 0
 #complete list of candidates who received vote
 candidates_list = {}
+candidate - ""
 #percentage of votes each candidate won
 percent_of_votes = 0.00
 # total number of votes each candidate won
